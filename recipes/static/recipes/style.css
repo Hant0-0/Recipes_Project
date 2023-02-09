@@ -1,0 +1,172 @@
+.title {
+    text-align: center;
+}
+
+.register{
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: chartreuse;
+    padding-bottom: 85px;
+}
+
+.label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.field_input {
+    margin-bottom: 10px;
+
+}
+
+input {
+    font-size: 18px;
+
+}
+
+#id_username{
+    width: 700px;
+    height: 30px;
+}
+
+#id_password1{
+    width: 700px;
+    height: 30px;
+}
+
+#id_password2{
+    width: 700px;
+    height: 30px;
+}
+
+#id_password{
+    width: 700px;
+    height: 30px;
+}
+
+#id_email {
+    width: 700px;
+    height: 30px;
+}
+
+.button {
+    font-size: 16px;
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    margin-top: 30px;
+    padding: 10px 15px 10px 15px;
+    float: left;
+    margin-right: 40px;
+
+}
+
+.help_text{
+    color: #6f5b5b;
+}
+
+.line{
+
+    width: 95%;
+    margin-right: 31px;
+    height: 2px;
+
+}
+
+/*--------------SITEBAR ---------------*/
+
+.links{
+    background-color: chartreuse;
+    border-radius: 8px;
+    margin-left: 10px;
+    height: 43px;
+
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+.button_log{
+    background-color: #b8fa79;
+    margin-left: 30px;
+    border: none;
+    border-radius: 6px;
+}
+
+.recipes{
+    list-style-type: none;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.link {
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+/*------------------ VIEWS ---------------------*/
+.image{
+    border-radius: 5px;
+    display: block;
+    height: 200px;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.recipe{
+
+    margin-left: 30px;
+
+}
+
+.create{
+    margin-top: 30px;
+    padding-left: 41px;
+    border-radius: 8px;
+    background-color: #54ff54;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+    padding-bottom: 95px;
+}
+
+.s {
+    padding-top: 10px;
+}
+
+.label_tag {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+
+}
+
+#id_title{
+    border-radius: 4px;
+    width: 316px;
+
+}
+
+#id_description{
+    border-radius: 8px;
+    height: 90px;
+
+}
+
+.descr{
+    margin-right: 400px;
+    margin-left: 400px;
+
+}
+
+
+
