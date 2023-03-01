@@ -41,7 +41,7 @@ def logoutuser(request):
         return redirect('home')
 
 def currentrecipes(request):
-    recipes = Recipe.objects.filter(user = request.user)
+    recipes = Recipe.objects.filter(user = request.user )
     return render(request, 'recipes/currentrecipes.html', {'recipes': recipes})
 
 def createrecipes(request):
